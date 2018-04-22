@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories xmlns="" version="1.0">
+  <repo quality="experimental" status="unofficial">
+    <name><![CDATA[a1ezzz-overlay]]></name>
+    <description lang="en"><![CDATA[A1ezzz Overlay]]></description>
+    <homepage>https://github.com/a1ezzz/gentoo-repo</homepage>
+    <owner type="person">
+      <email>dev@binblob.com</email>
+      <name><![CDATA[Ildar Gafurov]]></name>
+    </owner>
+    <source type="git">git://github.com/a1ezzz/gentoo-repo.git</source>
+    <feed>http://github.com/a1ezzz/gentoo-repo/commits/master.atom</feed>
+  </repo>
+</repositories>
