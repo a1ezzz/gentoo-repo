@@ -22,6 +22,7 @@ DOCS=( README.rst )
 
 PATCHES=(
 	"${FILESDIR}"/${PN}-0.8-client-list.patch
+	"${FILESDIR}"/${PN}-0.8-mkdir-return-codes.patch
 )
 
 python_install_all() {
