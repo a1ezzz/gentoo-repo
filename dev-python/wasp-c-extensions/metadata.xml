@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="project">
+		<email>dev@binblob.com</email>
+		<name>Ildar Gafurov</name>
+	</maintainer>
+	<longdescription lang="en">
+		A library with bunch of CPython extensions
+	</longdescription>
+	<upstream>
+		<remote-id type="pypi">wasp-c-extensions</remote-id>
+		<remote-id type="github">a1ezzz/wasp-c-extensions</remote-id>
+	</upstream>
+</pkgmetadata>
